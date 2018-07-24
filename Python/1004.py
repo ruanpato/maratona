@@ -1,4 +1,3 @@
-#Simple product
-a = int(input())
-b = int(input())
-print("PROD =",a*b)
+x=int(input())
+y=int(input())
+print("PROD =", x*y)

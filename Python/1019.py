@@ -1,0 +1,6 @@
+x=int(input())
+print(int(x/3600), end="")
+print(":", end="")
+print(int(x%3600/60), end="")
+print(":", end="")
+print(int(x%3600%60))

@@ -1,4 +1,3 @@
-#Simple sum
-a = int(input())
-b = int(input())
-print("SOMA =",a+b)
+x=int(input())
+y=int(input())
+print("SOMA =", x+y)
