@@ -1,0 +1,4 @@
+a=float(input())
+x=a-((a%100%50%20%10%5%2) if (a%100%50%20%10%5%2) < 1 else (a%100%50%20%10%5%2)-1)
+y=int(round((a-x)*100))
+print("NOTAS:\n%d nota(s) de R$ 100.00\n%d nota(s) de R$ 50.00\n%d nota(s) de R$ 20.00\n%d nota(s) de R$ 10.00\n%d nota(s) de R$ 5.00\n%d nota(s) de R$ 2.00\nMOEDAS:\n%d moeda(s) de R$ 1.00\n%d moeda(s) de R$ 0.50\n%d moeda(s) de R$ 0.25\n%d moeda(s) de R$ 0.10\n%d moeda(s) de R$ 0.05\n%d moeda(s) de R$ 0.01"%((x/100), (x%100/50), (x%100%50/20), (x%100%50%20/10), (x%100%50%20%10/5), (x%100%50%20%10%5/2), (x%100%50%20%10%5%2), (y/50), (y%50/25), (y%50%25/10), (y%50%25%10/5), (y%50%25%10%5)))
