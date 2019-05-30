@@ -1,6 +1,6 @@
-# Maratona de programação (ICPC) 
+# Uri Online Judge
 
-Repositório criado com o intuito de armazenar soluções de problemas resolvidos como "treino" para a maratona de programação ICPC.
+Repositório criado com o intuito de armazenar soluções de problemas resolvidos no site **__[Uri Online Judge](urionlinejudge.com.br)__** como "treino" para a maratona de programação ICPC.
 
 ## Feito com
 
