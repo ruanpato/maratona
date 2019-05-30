@@ -1,25 +1,13 @@
-# README #
+# Maratona de programação (ICPC) 
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Repositório criado com o intuito de armazenar soluções de problemas resolvidos como "treino" para a maratona de programação ICPC.
 
-### What is this repository for? ###
+## Feito com
 
-* This repository is for training of competitive programming training
-* (0,N)
+* [fpc](https://www.freepascal.org/) - Free Pascal compilador
+* [GNU-GCC](https://gcc.gnu.org/) - GNU-GCC coleção de compiladores
+* [Python](https://www.python.org/) - Interpretador Python
 
-### How do I get set up? ###
+## Autor
 
-* Default file names:
-	Each problem should be saved like this pattern 1001.cpp
-	Each test file should be saved like this pattern 1001inA, 1001inB, ... 	
-
-* Deployment instructions:
-	All codes need be indented and clean
-
-* Other instructions:
-	All codes should have their name commented on the file, if it is a c ++ file should be commented soon after the includes and if the code is in python should have its name commented on the first line or below the import
-
-### Who do I talk to? ###
-
-* Repo owner or admin : Ruan Pato
-* Email : Ac13Yrs@protonmail.com
+* **Ruan Pato** - *Codes* - [Ruan Pato](https://github.com/ruanpato)
