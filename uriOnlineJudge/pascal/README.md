@@ -1,81 +1,21 @@
-# uriOnlineJudge
+# URI Pascal 
 
-My dir to up codes in pascal of urionlinejudge.com.br
+Diretório criado para armazenar as soluções em pascal dos problemas encontrados no [URI Online Judge](urionlinejudge.com.br).
 
-## Getting Started
+## Padrões
 
-The Instructions is for nothing
+* **Exemplos:**
+  * **Código fonte das soluções:**
+    * 0123.pas (número do problema do uri seguido pela estensão da linguagem) .
+  * **Arquivos de entrada (estes devem estar dentro de um subdiretório chamado "in"):**
+    * 0123in0 (0 no final corresponde ao "id da entrada", sendo que esse é iniciado por padrão em zero e vai até N).
 
-### Prerequisites
+Os códigos deves ser compilados sem alterar o nome padrão do arquivo gerado, onde este terá a extensão .o e também haverá um com o mesmo número de problema, mas sem extensão e estes serão ignorados pelo .gitignore.
 
-Don't had
+## Feito com
 
-```
-This READ.ME is an example
-```
+* [fpc](https://www.freepascal.org/) - Free Pascal compilador
 
-### Installing
+## Autor
 
-Don't had steps to install
-
-```
-What ? I said this is only an example for me
-```
-
-And repeat
-
-```
-This is an example.
-```
-
-## Running the tests
-
-( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°) ( ͡° ͜ʖ ͡°)
-
-### Break down into end to end tests
-
-Rusbé
-
-```
-Michael Jackson
-```
-
-### And coding style tests
-
-Shrek is love, shrek is live.
-
-```
-What are you doing in my swaMp ?
-```
-
-## Deployment
-
-We're all shooting stars
-
-## Built With
-
-* [gcc](https://gcc.gnu.org/) - GNU gcc and g++ compiler used
-* [fpc](https://www.freepascal.org/) - Free Pascal Compiler
-* [Python](https://www.python.org/) - Python interpreter
-
-## Contributing
-
-Give me money, because i can't buy a quantic pc to play minecraft with my squad.
-
-## Versioning
-
-I don't know how make this yet.
-
-## Authors
-
-* **Ruan Pato** - *Initial work* - [Ruan Pato](https://github.com/ruanpato)
-
-## License
-
-I don't had driver license.
-
-## Acknowledgments
-
-* a
-* b
-* c
+* **Ruan Pato** - *Codes* - [Ruan Pato](https://github.com/ruanpato)

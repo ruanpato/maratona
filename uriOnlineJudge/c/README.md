@@ -1,6 +1,6 @@
-# URI Python
+# URI C
 
-Diretório criado para armazenar as soluções em python dos problemas encontrados no [URI Online Judge](urionlinejudge.com.br).
+Diretório criado para armazenar as soluções em C dos problemas encontrados no [URI Online Judge](urionlinejudge.com.br).
 
 ## Padrões
 
@@ -10,10 +10,13 @@ Diretório criado para armazenar as soluções em python dos problemas encontrad
   * **Arquivos de entrada (estes devem estar dentro de um subdiretório chamado "in"):**
     * 0123in0 (0 no final corresponde ao "id da entrada", sendo que esse é iniciado por padrão em zero e vai até N)
 
+Os códigos devem ser compilados sem alterar o nome padrão do arquivo gerado, onde este deve-se chamar a.out, pois será ignorado pelo .gitignore
+
 ## Feito com
 
-* [Python](https://www.python.org/) - Interpretador Python
+* [GNU-GCC](https://gcc.gnu.org/) - GNU-GCC coleção de compiladores (neste caso apenas o gcc) 
 
-## Autors
+
+## Autor
 
 * **Ruan Pato** - *Codes* - [Ruan Pato](https://github.com/ruanpato)
